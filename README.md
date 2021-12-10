@@ -2,12 +2,6 @@
 Machine Learning algorithms implementation.
 
 ### What can I find here?
-
-
-# Design-Patterns
-C++ Design Patterns Implementations.
-
-### What can I find here?
 ML Algorithms
 ----- |
 `KNN` |  
