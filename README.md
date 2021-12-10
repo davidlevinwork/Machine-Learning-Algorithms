@@ -1,4 +1,4 @@
-# Intro-to-Machine-Learning
+# Machine Learning Algorithms
 Machine Learning algorithms implementation.
 
 ## What can I find here?
