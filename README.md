@@ -10,11 +10,11 @@ C++ Design Patterns Implementations.
 ### What can I find here?
 ML Algorithms
 ----- |
-`K-Means-Clustering` |  
 `KNN` |  
+`K-Means-Clustering` | 
+`SVM (MultiClass)` |
 `Perceptron (MultiClass)` | 
 `PassiveAggresive (MultiClass)` | 
-`SVM (MultiClass)` |
 
 Neural Network
 
